@@ -9,9 +9,16 @@ public class FivePlus {
 		int x = 20;
 		
 		int s = x ++ + ++ x;
-		
+			
 		System.out.println(s);
+	
+		int y = + + + + + + + + +1;
 
+		System.out.println(y);
+		
+		int z = - + - + - + - + - + - + 1;
+		
+		System.out.println(z);
 	}
 
 }
