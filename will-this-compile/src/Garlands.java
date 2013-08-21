@@ -32,7 +32,7 @@ public class Garlands {
 		x = ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ x;
 		
 		
-	    o = !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! o;
+	    o = !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! o;
 		
 	    
 		{ } { } { } { } { } { } { } { } { } { } { } { } { } { } { } { } { } { }
@@ -49,8 +49,8 @@ public class Garlands {
 	    
 	    while (o) while (o) while (o) while (o) while (o) while (o) while (o);
 
-	    
-	    for (;;) for (;;) for (;;) for (;;) for (;;) for (;;) for (;;) for (;;);
+	    http://www.google.com/
+	    for (;;) for (;;) for (;;) for (;;) for (;;) for (;;) break http;
 
 	    
 	}
