@@ -49,7 +49,7 @@ public class Garlands {
 	    
 	    while (o) while (o) while (o) while (o) while (o) while (o) while (o);
 
-	    http://www.google.com/
+	    http://www.jcrete.org/
 	    for (;;) for (;;) for (;;) for (;;) for (;;) for (;;) break http;
 
 	    
