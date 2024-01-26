@@ -9,12 +9,12 @@
 public class Garlands {
 
 	public static void main(String[] args) {
-		int _ = 0;
+	
 		int x = 0;
 		boolean o = false;
 		
 		
-		_ = _ ++ | ++ _ | ++ _ | ++ _ | ++ _ | ++ _ | ++ _ | ++ _ | ++ _ | ++ _;
+		x = x ++ | ++ x | ++ x | ++ x | ++ x | ++ x | ++ x | ++ x | ++ x | ++ x;
 		
 		
 		x = x = x = x = x = x = x = x = x = x = x = x = x = x = x = x = x = x;
@@ -49,9 +49,8 @@ public class Garlands {
 	    
 	    while (o) while (o) while (o) while (o) while (o) while (o) while (o);
 
-	    http://www.jcrete.org/
-	    for (;;) for (;;) for (;;) for (;;) for (;;) for (;;) break http;
 
+	    for (;;) for (;;) for (;;) for (;;) for (;;) for (;;) ;
 	    
 	}
 
